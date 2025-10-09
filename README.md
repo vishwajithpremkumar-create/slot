@@ -93,7 +93,7 @@ Execute the program using runserver command.
     <table border="1">
         <tr>
             <th>S. No.</th>
-<th>Subject Code</th>
+            <th>Subject Code</th>
             <th>Subject Name</th>
         </tr>
         <tr>
