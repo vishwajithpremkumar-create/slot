@@ -34,7 +34,7 @@ Execute the program using runserver command.
 <body>
     <IMG SRC="logo.png"HEIGHT="150"WIDTH="500"BORDER=6>
     <h2>Saveetha Engineering College</h2>
-    <h3>SLOT TIME TABLE - KABILAN S</h3>
+    <h3>SLOT TIME TABLE - Vishwajith P</h3>
 
     <table border="1">
         <tr BGCOLOR="YELLOW">
